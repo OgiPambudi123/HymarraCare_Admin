@@ -1,0 +1,53 @@
+.navbar-brand {
+    color: white !important;
+  }
+  
+/* Gaya header */
+.card-header {
+    background-color: #9A6B75; /* Ganti dengan warna yang Anda inginkan */
+    color: #fff; /* Warna teks pada header */
+}
+
+/* Gaya latar belakang halaman login */
+body {
+    background-color: #fafafa; /* Warna latar belakang */
+}
+
+/* Gaya card login */
+.card {
+    background-color: #fff; /* Warna latar belakang card */
+    border: 1px solid #ddd; /* Garis tepi card */
+    border-radius: 8px; /* Sudut card bulat */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Bayangan card */
+}
+
+/* Gaya tombol "Login" */
+.btn-primary {
+    background-color: #a85d9c; /* Warna latar belakang tombol */
+    color: #fff; /* Warna teks tombol */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Warna latar belakang saat tombol dihover */
+}
+
+/* Gaya tautan "Sign up" */
+.text-decoration-none {
+    color: #007bff; /* Warna tautan */
+}
+
+.text-decoration-none:hover {
+    text-decoration: underline; /* Garis bawah saat dihover */
+}
+
+/* Gaya pesan kesalahan */
+.alert-warning {
+    background-color: #ffc107; /* Warna latar belakang pesan kesalahan */
+    color: #333; /* Warna teks pesan kesalahan */
+}
+
+/* Gaya pesan sukses */
+.alert-success {
+    background-color: #28a745; /* Warna latar belakang pesan sukses */
+    color: #fff; /* Warna teks pesan sukses */
+}
